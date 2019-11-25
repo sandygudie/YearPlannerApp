@@ -1,1 +1,1 @@
-This is a simple application that allows all connected users to get notifications on users' birthdays before the day.
+This is a simple application that allows a user to mmake and keep track of their goals yearly, quarterly and monthly.
