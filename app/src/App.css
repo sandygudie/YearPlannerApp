@@ -1,0 +1,35 @@
+*{
+    font-size:16px;
+}
+
+.App{
+    width: 50em; /* 800px/16px */
+    min-height: 43.75em; /* 700px/16px */
+    margin: 5em auto; /* 80px/16px */
+}
+
+.App h1{
+    font-size:2em;
+}
+.App h1, .header{
+    text-align: center;
+}
+.header input{
+    width:60%;/* (360px/16px)x100 */
+    height:2.5em; /* 40px/16px */
+    padding: 0 0.625em; /* 10px/16px */
+    margin-right: 0.3125em; /* 5px/16px */
+    border: 1px solid #bfbfbf;
+    border-radius: 0.25em; /* 4px/16px */
+}
+.header button{
+    height: 2.5em;/* 40px/16px */
+    width: 6.25em; /* 100px/16px */
+    margin-left: 0.3125em; /* 5px/16px*/
+    padding: 0.5em; /* 8px/16px */
+    background-color: #11c50b;
+    color:#ffffff;
+    border:0;
+    border-radius: 0.25em; /* 4px/16px */
+    cursor: pointer;
+}
